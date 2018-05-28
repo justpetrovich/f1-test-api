@@ -1,0 +1,18 @@
+{
+  "name": "formula-test-api",
+  "version": "1.0.0",
+  "description": "Formula test api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "json-server": "^0.8.21",
+    "glob": "^7.0.5"
+  },
+  "keywords": [
+    "node",
+    "json-server"
+  ],
+  "license": "MIT"
+}

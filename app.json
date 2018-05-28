@@ -1,0 +1,7 @@
+{
+  "name": "Formula test Server",
+  "description": "Formula test Server --Heroku Ready",
+  "repository": "https://github.com/",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "json-server"]
+}
