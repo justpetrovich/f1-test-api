@@ -7,8 +7,9 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "json-server": "^0.8.21",
-    "glob": "^7.0.5"
+    "body-parser": "^1.18.3",
+    "glob": "^7.0.5",
+    "json-server": "^0.8.21"
   },
   "keywords": [
     "node",
